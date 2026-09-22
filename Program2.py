@@ -1,6 +1,6 @@
-a=10;
-b=10.5
-c=2+3j
+a=int(input("Enter an integer:"))
 print("Integer:",a)
+b=float(input("Enter a float number:"))
 print("float:",b)
+c=complex(input("Enter a complex number:"))
 print("complex:",c)
