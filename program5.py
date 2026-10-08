@@ -1,5 +1,5 @@
 a=int(input("Enter first integer:"))
-b=int(input("Entee the second integer:"))
+b=int(input("Enter the second integer:"))
 print("Addition:",a+b)
 print("Subtraction:",a-b)
 print("Multiplication:",a*b)
